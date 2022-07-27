@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @knavisser
-- 👀 I’m interested in JS, Python, SQL, XML, etc.
-- 🌱 I’m currently learning how to program
-- 💞️ I’m looking to collaborate on any easy programming projects
+- 👀 I’m interested in JS, TS, React, Vue, etc.
+- 🌱 I’m currently expanding my programming knowledge
+- 💞️ I’m looking to collaborate on any semi-entry-level programming projects
 - 📫 How to reach me: knavisser@gmail.com
 
 <!---
